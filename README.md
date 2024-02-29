@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dangtrunganh
-- 👀 I’m interested in Machine Learning, NLP, Computer Vision
+- 👀 I’m interested in Machine Learning, NLP, Computer Vision, Big data
 - 🌱 I’m currently a PhD student
 - 💞️ I’m looking to collaborate on general Data science or NLP, Computer Vision
 - 📫 How to reach me ...
