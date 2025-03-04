@@ -8,3 +8,6 @@
 dangtrunganh/dangtrunganh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+from IPython.core.display import display, HTML 
+display(HTML("<style>.container { width:100% !important; }</style>"))
